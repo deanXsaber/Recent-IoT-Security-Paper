@@ -1,3 +1,7 @@
+HoneyPot Related Paper TO READ
+
+- [A Survey of Honeypots and Honeynets for Internet of Things, Industrial Internet of Things, and Cyber-Physical Systems](https://arxiv.org/pdf/2105.05445.pdf), IEEE Communications Surveys & Tutorials 2021 Early Access
+
 It is a list of IoT security papers from 2021 top conferences. (CCS, NDSS, USENIX Security, IEEE S&P ...)
 
 **Not Classified:**
