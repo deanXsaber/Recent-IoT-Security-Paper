@@ -13,9 +13,19 @@ It is a list of IoT security papers from 2021 top conferences. (CCS, NDSS, USENI
 
 - [DroneKey: A Drone-Aided Group-Key Generation Scheme for Large-Scale IoT Networks](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), CCS 2021
 
+- [The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), USENIX Security 2021
+
+- [IoTSafe: Enforcing Safety and Security Policy with Real IoT Physical Interaction Discovery](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), NDSS 2021
+
 - [All the Numbers are US: Large-scale Abuse of Contact Discovery in Mobile Messengers](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), NDSS 2021
 
+- [Hey Alexa, is this Skill Safe?: Taking a Closer Look at the Alexa Skill Ecosystem](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), NDSS 2021
 
+- [The Abuser Inside Apps: Finding the Culprit Committing Mobile Ad Fraud](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), NDSS 2021
+
+- [Differential Training: A Generic Framework to Reduce Label Noises for Android Malware Detection](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), NDSS 2021
+
+- [Does Every Second Count? Time-based Evolution of Malware Behavior in Sandboxes](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), NDSS 2021
 
 
 It is a list of IoT security papers from 2018-2020 top conferences. 
