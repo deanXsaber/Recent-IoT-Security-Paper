@@ -1,7 +1,7 @@
 It is a list of IoT security papers from 2021 top conferences. (CCS, NDSS, USENIX Security, IEEE S&P ...)
 
 **Firmware Vulnerabilities:**
-  SNIPUZZ: Black-box Fuzzing of IoT Firmware via Message Snippet Inference CCS 2021
+-  [SNIPUZZ: Black-box Fuzzing of IoT Firmware via Message Snippet Inference](https://arxiv.org/pdf/2105.05445.pdf), CCS 2021
 
 
 It is a list of IoT security papers from 2018-2020 top conferences. 
