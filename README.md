@@ -1,9 +1,13 @@
 It is a list of IoT security papers from 2021 top conferences. (CCS, NDSS, USENIX Security, IEEE S&P ...)
 
-**Firmware Vulnerabilities:**
--  [SNIPUZZ: Black-box Fuzzing of IoT Firmware via Message Snippet Inference](https://arxiv.org/pdf/2105.05445.pdf), CCS 2021
+**Not Classified:**
+- [SNIPUZZ: Black-box Fuzzing of IoT Firmware via Message Snippet Inference](https://arxiv.org/pdf/2105.05445.pdf), CCS 2021
 
 - [On-device IoT Certificate Revocation Checking with Small Memory and Low Latency](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), CCS 2021
+
+- [MaMIoT: Manipulation of Energy Market Leveraging High Wattage IoT Botnets](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), CCS 2021
+
+- [CPscan: Detecting Bugs Caused by Code Pruning in IoT Kernels](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), CCS 2021
 
 
 
