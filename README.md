@@ -9,6 +9,11 @@ It is a list of IoT security papers from 2021 top conferences. (CCS, NDSS, USENI
 
 - [CPscan: Detecting Bugs Caused by Code Pruning in IoT Kernels](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), CCS 2021
 
+- [Who's In Control? On Security Risks of Disjointed IoT Device Management Channels](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), CCS 2021
+
+- [DroneKey: A Drone-Aided Group-Key Generation Scheme for Large-Scale IoT Networks](https://www.amazon.science/blog/hyprank-how-alexa-determines-what-skill-can-best-meet-a-customers-need), CCS 2021
+
+
 
 
 It is a list of IoT security papers from 2018-2020 top conferences. 
